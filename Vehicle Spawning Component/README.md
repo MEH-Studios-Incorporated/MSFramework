@@ -10,4 +10,4 @@ In order for this module to work, you need to follow the following steps:
     > As an example, we have included the Delivery Vehicle from MS:RF.
 - Place the GUI Interface in the [Assets](ReplicatedStorage/Assets) folder of [ReplicatedStorage](ReplicatedStorage),
 - Inside [ReplicatedStorage](ReplicatedStorage), place the RemoteEvent structure [TriggerVehicleSpawnGUI](ReplicatedStorage/TriggerVehicleSpawnGUI),
-- Inside of [StarterPlayerScripts](StarterPlayer/StarterPlayerScripts/)
+- Inside of [StarterPlayerScripts](StarterPlayer/StarterPlayerScripts/), create a new **LocalScript**, with the code that can be found in the file [TriggerVehicleSpawn.lua](StarterPlayer/StarterPlayerScripts/TriggerVehicleSpawn.lua)
