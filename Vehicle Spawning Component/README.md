@@ -13,3 +13,6 @@ In order for this module to work, you need to follow the following steps:
 - Inside [ReplicatedStorage](ReplicatedStorage), place the RemoteEvent structure [TriggerVehicleSpawnGUI](ReplicatedStorage/Assets/TriggerVehicleSpawnGUI),
 - Inside of [StarterPlayerScripts](StarterPlayer/StarterPlayerScripts/), create a new **LocalScript**, with the code that can be found in the file [TriggerVehicleSpawn.lua](StarterPlayer/StarterPlayerScripts/TriggerVehicleSpawn.lua)
 - Inside of [ServerScriptService](ServerScriptService), create 2 ServerScripts, namely [PackageManager.lua](ServerScriptService/PackageManager.lua) and [VehicleSpawnServer.lua](ServerScriptService/VehicleSpawnServer.lua),
+- Inside of [Workspace](Workspace), create a folder named **Vehicles**,
+- Inside of [Workspace](Workspace), create one or multiple spawning platform from the template [VehicleSpawner1.rbxm](Workspace/VehicleSpawner1.rbxm).
+> Note: The Vehicle Spawners should follow the following naming scheme: "VehicleSpawner" + i, where i is the index of the spawner.
