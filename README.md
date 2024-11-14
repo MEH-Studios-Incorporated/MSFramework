@@ -11,4 +11,4 @@ Fair use is allowed, as long as the usage of this module is mentioned in a Credi
 - [Vehicle Spawning Component](Vehicle%20Spawning%20Component), a well-documented, versatile tool for creating a Vehice Spawning System.
 
 ## How to download?
-Please go to the [Releases](releases) tab in orded to download the desired component.
+Please go to the [Releases](https://github.com/MEH-Studios-Incorporated/MSFramework/releases/) tab in orded to download the desired component.
