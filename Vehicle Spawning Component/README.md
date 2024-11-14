@@ -4,7 +4,7 @@ This module allows you to create different spawning platforms for vehicles using
 
 ## Instructions:
 In order for this module to work, you need to follow the following steps:
-- Ensure that the vehicles are using the supported chassis types.
-- Place all the vehicles in [ReplicatedStorage](ReplicatedStorage/Vehicles), while respecting the following folder scheme:
-
+- Ensure that the vehicles are using the supported chassis types,
+- Place all the vehicles in the [Vehicles](ReplicatedStorage/Vehicles) folder, while respecting the following folder scheme:
     Manufacturer / Package / Vehicle
+- Place the GUI Interface in the [Assets](ReplicatedStorage/Assets) folder of [ReplicatedStorage](ReplicatedStorage),
