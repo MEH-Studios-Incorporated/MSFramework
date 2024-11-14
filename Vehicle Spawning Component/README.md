@@ -16,3 +16,11 @@ In order for this module to work, you need to follow the following steps:
 - Inside of [Workspace](Workspace), create a folder named **Vehicles**,
 - Inside of [Workspace](Workspace), create one or multiple spawning platform from the template [VehicleSpawner1.rbxm](Workspace/VehicleSpawner1.rbxm).
 > Note: The Vehicle Spawners should follow the following naming scheme: "VehicleSpawner" + i, where i is the index of the spawner.
+
+## License and Usage
+All of the **MEH Studios MSFramework** componets are licensed, released under the **MEH Studios Incorporated** Copyright Act of 2020. Any redistribution of this software is prohibited and will be sanctioned by law.
+Fair use is allowed, as long as the usage of this module is mentioned in a Credits section or similar.
+
+## Afterword
+This configuration ensures that the component works as intended. Any change to the path of the files and/or renaming the files will most definitely break this module.
+All of the code and models in this module are directly extracted from **MEH Studios Research Facility**, if there are some dependencies that were not included in this module, please create a new issue on GitHub.
